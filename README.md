@@ -17,8 +17,7 @@ IoT 개발자 임베디드시스템 학습 리포지토
     mkdir Work
     ls
      : 작업할 폴더 생성
-    rm - fr Work
-    ls
+    rm - rf Work
     : 삭제
     ls -a
     : 숨겨진 파일 보기
@@ -31,3 +30,12 @@ IoT 개발자 임베디드시스템 학습 리포지토
     ls /etc
     :
     nano /etc/nanorc
+
+## 2일차
+  - 코드 만들고 gcc -o test test.c 하고 ./test으로 실행 
+  ex: gcc -o t3 test03.c 여기서 t3이 실행파일
+  또다른 방법은 gcc test03.c -> ./a.out
+  - mv : 수정, 이동
+  - cp : 복사
+  - rm -rf: 제거
+  
