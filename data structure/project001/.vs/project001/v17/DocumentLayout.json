@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\embedded-system-2024\\data structure\\project001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D12D6A26-C66A-43D4-A427-9E3FF0158660}|project001\\project001.vcxproj|C:\\Sources\\embedded-system-2024\\data structure\\project001\\project001\\q_test01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D12D6A26-C66A-43D4-A427-9E3FF0158660}|project001\\project001.vcxproj|solutionrelative:project001\\q_test01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12D6A26-C66A-43D4-A427-9E3FF0158660}|project001\\project001.vcxproj|C:\\Sources\\embedded-system-2024\\data structure\\project001\\project001\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D12D6A26-C66A-43D4-A427-9E3FF0158660}|project001\\project001.vcxproj|solutionrelative:project001\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12D6A26-C66A-43D4-A427-9E3FF0158660}|project001\\project001.vcxproj|C:\\Sources\\embedded-system-2024\\data structure\\project001\\project001\\stack01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D12D6A26-C66A-43D4-A427-9E3FF0158660}|project001\\project001.vcxproj|solutionrelative:project001\\stack01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "q_test01.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\data structure\\project001\\project001\\q_test01.cpp",
+              "RelativeDocumentMoniker": "project001\\q_test01.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\data structure\\project001\\project001\\q_test01.cpp",
+              "RelativeToolTip": "project001\\q_test01.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T08:08:48.871Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Queue.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\data structure\\project001\\project001\\Queue.cpp",
+              "RelativeDocumentMoniker": "project001\\Queue.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\data structure\\project001\\project001\\Queue.cpp",
+              "RelativeToolTip": "project001\\Queue.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T07:21:11.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stack01.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\data structure\\project001\\project001\\stack01.cpp",
+              "RelativeDocumentMoniker": "project001\\stack01.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\data structure\\project001\\project001\\stack01.cpp",
+              "RelativeToolTip": "project001\\stack01.cpp",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T07:02:24.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
