@@ -1,3 +1,0 @@
-﻿  q_test01.cpp
-C:\Sources\embedded-system-2024\data structure\project001\project001\q_test01.cpp(4,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  project001.vcxproj -> C:\Sources\embedded-system-2024\data structure\project001\x64\Debug\project001.exe

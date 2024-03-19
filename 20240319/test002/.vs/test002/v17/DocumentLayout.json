@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\embedded-system-2024\\20240319\\test002\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8FDF67-5266-4DE7-AD33-65C0FB5EF5E1}|test002\\test002.vcxproj|C:\\Sources\\embedded-system-2024\\20240319\\test002\\test002\\queue03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B8FDF67-5266-4DE7-AD33-65C0FB5EF5E1}|test002\\test002.vcxproj|solutionrelative:test002\\queue03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8FDF67-5266-4DE7-AD33-65C0FB5EF5E1}|test002\\test002.vcxproj|C:\\Sources\\embedded-system-2024\\20240319\\test002\\test002\\queue02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B8FDF67-5266-4DE7-AD33-65C0FB5EF5E1}|test002\\test002.vcxproj|solutionrelative:test002\\queue02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "queue03.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\20240319\\test002\\test002\\queue03.cpp",
+              "RelativeDocumentMoniker": "test002\\queue03.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\20240319\\test002\\test002\\queue03.cpp",
+              "RelativeToolTip": "test002\\queue03.cpp",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAUwEYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T05:01:11.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "queue02.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\20240319\\test002\\test002\\queue02.cpp",
+              "RelativeDocumentMoniker": "test002\\queue02.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\20240319\\test002\\test002\\queue02.cpp",
+              "RelativeToolTip": "test002\\queue02.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAUwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T00:19:06.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
