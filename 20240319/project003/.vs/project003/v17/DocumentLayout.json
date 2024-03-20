@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\embedded-system-2024\\20240319\\project003\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB57CB71-A17B-448F-B911-E8DA91FE1D94}|project003\\project003.vcxproj|C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\low_open.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB57CB71-A17B-448F-B911-E8DA91FE1D94}|project003\\project003.vcxproj|solutionrelative:project003\\low_open.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB57CB71-A17B-448F-B911-E8DA91FE1D94}|project003\\project003.vcxproj|C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\file01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB57CB71-A17B-448F-B911-E8DA91FE1D94}|project003\\project003.vcxproj|solutionrelative:project003\\file01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB57CB71-A17B-448F-B911-E8DA91FE1D94}|project003\\project003.vcxproj|C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\search02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB57CB71-A17B-448F-B911-E8DA91FE1D94}|project003\\project003.vcxproj|solutionrelative:project003\\search02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB57CB71-A17B-448F-B911-E8DA91FE1D94}|project003\\project003.vcxproj|C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\search01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB57CB71-A17B-448F-B911-E8DA91FE1D94}|project003\\project003.vcxproj|solutionrelative:project003\\search01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB57CB71-A17B-448F-B911-E8DA91FE1D94}|project003\\project003.vcxproj|C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\sort01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB57CB71-A17B-448F-B911-E8DA91FE1D94}|project003\\project003.vcxproj|solutionrelative:project003\\sort01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB57CB71-A17B-448F-B911-E8DA91FE1D94}|project003\\project003.vcxproj|C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\sort01_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB57CB71-A17B-448F-B911-E8DA91FE1D94}|project003\\project003.vcxproj|solutionrelative:project003\\sort01_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB57CB71-A17B-448F-B911-E8DA91FE1D94}|project003\\project003.vcxproj|C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\project003.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB57CB71-A17B-448F-B911-E8DA91FE1D94}|project003\\project003.vcxproj|solutionrelative:project003\\project003.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "low_open.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\low_open.cpp",
+              "RelativeDocumentMoniker": "project003\\low_open.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\low_open.cpp",
+              "RelativeToolTip": "project003\\low_open.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T05:55:00.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file01.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\file01.cpp",
+              "RelativeDocumentMoniker": "project003\\file01.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\file01.cpp",
+              "RelativeToolTip": "project003\\file01.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T04:52:57.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "search02.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\search02.cpp",
+              "RelativeDocumentMoniker": "project003\\search02.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\search02.cpp",
+              "RelativeToolTip": "project003\\search02.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T03:02:53.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "search01.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\search01.cpp",
+              "RelativeDocumentMoniker": "project003\\search01.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\search01.cpp",
+              "RelativeToolTip": "project003\\search01.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T02:03:18.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sort01.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\sort01.cpp",
+              "RelativeDocumentMoniker": "project003\\sort01.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\sort01.cpp",
+              "RelativeToolTip": "project003\\sort01.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T00:43:25.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sort01_01.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\sort01_01.cpp",
+              "RelativeDocumentMoniker": "project003\\sort01_01.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\sort01_01.cpp",
+              "RelativeToolTip": "project003\\sort01_01.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T00:15:33.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "project003.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\project003.cpp",
+              "RelativeDocumentMoniker": "project003\\project003.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\20240319\\project003\\project003\\project003.cpp",
+              "RelativeToolTip": "project003\\project003.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T00:15:16.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

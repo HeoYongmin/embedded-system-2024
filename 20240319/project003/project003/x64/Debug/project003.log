@@ -1,0 +1,2 @@
+﻿  low_open.cpp
+C:\Sources\embedded-system-2024\20240319\project003\project003\low_open.cpp(4,10): error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
