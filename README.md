@@ -54,4 +54,30 @@ IoT 개발자 임베디드시스템 학습 리포지토
 ## 20240320
  - cat 파일이름
   : 파일 안에 있는 내용을 출력
+
+
+
+# miniproject
+~20240328 Miniproject 
+
+1. 아이디와 비밀번호를 입력하여 맞으면 본인의 정보가 저장된 파일을 open
+
+https://github.com/HeoYongmin/miniproject/assets/158007383/dd4e1859-d906-4b5b-82cd-1a1bfa128dc1
+
+
+
+
+
+
+
+
+2. 연결 리스트 자료구조로 도서관리 프로그램
+    - version01
+
+   - https://github.com/HeoYongmin/miniproject/assets/158007383/29acd524-abe0-4612-8db5-a2e27612acee
+
+
+    - version02
+  
+    - https://github.com/HeoYongmin/miniproject/assets/158007383/5f6c44dd-2824-4ef2-b983-3f92a9817352
   
