@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Sources\\miniproject\\~20240328 project\\project01\\",
+  "WorkspaceRootPath": "C:\\Sources\\embedded-system-2024\\~20240328 project\\project01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8E912E3-F053-4D04-8DDF-E1B6477FFF7B}|project01\\project01.vcxproj|C:\\Sources\\miniproject\\~20240328 project\\project01\\project01\\project02_v1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F8E912E3-F053-4D04-8DDF-E1B6477FFF7B}|project01\\project01.vcxproj|C:\\Sources\\embedded-system-2024\\~20240328 project\\project01\\project01\\project02_v1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F8E912E3-F053-4D04-8DDF-E1B6477FFF7B}|project01\\project01.vcxproj|solutionrelative:project01\\project02_v1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8E912E3-F053-4D04-8DDF-E1B6477FFF7B}|project01\\project01.vcxproj|C:\\Sources\\miniproject\\~20240328 project\\project01\\project01\\project01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F8E912E3-F053-4D04-8DDF-E1B6477FFF7B}|project01\\project01.vcxproj|C:\\Sources\\embedded-system-2024\\~20240328 project\\project01\\project01\\project01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F8E912E3-F053-4D04-8DDF-E1B6477FFF7B}|project01\\project01.vcxproj|solutionrelative:project01\\project01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8E912E3-F053-4D04-8DDF-E1B6477FFF7B}|project01\\project01.vcxproj|C:\\Sources\\miniproject\\~20240328 project\\project01\\project01\\project02_v2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F8E912E3-F053-4D04-8DDF-E1B6477FFF7B}|project01\\project01.vcxproj|C:\\Sources\\embedded-system-2024\\~20240328 project\\project01\\project01\\project02_v2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F8E912E3-F053-4D04-8DDF-E1B6477FFF7B}|project01\\project01.vcxproj|solutionrelative:project01\\project02_v2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "project02_v2.cpp",
-              "DocumentMoniker": "C:\\Sources\\miniproject\\~20240328 project\\project01\\project01\\project02_v2.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\~20240328 project\\project01\\project01\\project02_v2.cpp",
               "RelativeDocumentMoniker": "project01\\project02_v2.cpp",
-              "ToolTip": "C:\\Sources\\miniproject\\~20240328 project\\project01\\project01\\project02_v2.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\~20240328 project\\project01\\project01\\project02_v2.cpp",
               "RelativeToolTip": "project01\\project02_v2.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "project02_v1.cpp",
-              "DocumentMoniker": "C:\\Sources\\miniproject\\~20240328 project\\project01\\project01\\project02_v1.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\~20240328 project\\project01\\project01\\project02_v1.cpp",
               "RelativeDocumentMoniker": "project01\\project02_v1.cpp",
-              "ToolTip": "C:\\Sources\\miniproject\\~20240328 project\\project01\\project01\\project02_v1.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\~20240328 project\\project01\\project01\\project02_v1.cpp",
               "RelativeToolTip": "project01\\project02_v1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-04T05:42:17.373Z",
               "EditorCaption": ""
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "project01.cpp",
-              "DocumentMoniker": "C:\\Sources\\miniproject\\~20240328 project\\project01\\project01\\project01.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\~20240328 project\\project01\\project01\\project01.cpp",
               "RelativeDocumentMoniker": "project01\\project01.cpp",
-              "ToolTip": "C:\\Sources\\miniproject\\~20240328 project\\project01\\project01\\project01.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\~20240328 project\\project01\\project01\\project01.cpp",
               "RelativeToolTip": "project01\\project01.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
