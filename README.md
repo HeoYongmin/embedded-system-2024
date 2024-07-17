@@ -62,22 +62,19 @@ IoT 개발자 임베디드시스템 학습 리포지토
 
 1. 아이디와 비밀번호를 입력하여 맞으면 본인의 정보가 저장된 파일을 open
 
-https://github.com/HeoYongmin/miniproject/assets/158007383/dd4e1859-d906-4b5b-82cd-1a1bfa128dc1
-
-
-
-
-
+https://github.com/user-attachments/assets/b93343de-0e68-4257-9c86-2be942130d04
 
 
 
 2. 연결 리스트 자료구조로 도서관리 프로그램
     - version01
 
-   - https://github.com/HeoYongmin/miniproject/assets/158007383/29acd524-abe0-4612-8db5-a2e27612acee
+    - https://github.com/user-attachments/assets/7fbd83bb-96f1-4712-93c3-854f5ad121ff
 
 
     - version02
   
-    - https://github.com/HeoYongmin/miniproject/assets/158007383/5f6c44dd-2824-4ef2-b983-3f92a9817352
+    - https://github.com/user-attachments/assets/782054c8-a1a2-409d-9efd-f4fe8a97b8ca
+
+
   
